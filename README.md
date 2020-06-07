@@ -11,7 +11,7 @@ h2{color: rgb(0,0,0);}
 </style>
 </head>
 <body>
-<h1><strong> Pomeranian</strong>
+  <h1><strong> Pomeranian</strong></h1>
 <p> Szpic miniaturowy pomeranian ma wesołe usposobienie i żywy temperament. Jest ruchliwy, ciekawski, wszędobylski i chętny do zabawy. Bardzo przywiązany do opiekuna, wrażliwy i oddany, nie lubi zostawać na długo sam; najchętniej stale towarzyszyłby właścicielowi. Bardzo źle czuje się pozostawiony na długie godziny w pustym domu.</p>
 <img src="https://www.psy.pl/wp-content/uploads/2005/04/pomek5-e1508445327703.jpg" width="300">
 <h2>Szkolenie i wychowanie</h2>
